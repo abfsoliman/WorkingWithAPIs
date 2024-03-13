@@ -32,4 +32,4 @@ print(all_chars_list)
 
 chars_df = pandas.DataFrame(all_chars_list)
 print(chars_df.head())
-pandas_gbq.to_gbq(chars_df, 'ferrous-record-386911.api.chars', project_id='ferrous-record-386911', if_exists='append')
+pandas_gbq.to_gbq(chars_df, 'table_id', project_id='project_id', if_exists='append')
