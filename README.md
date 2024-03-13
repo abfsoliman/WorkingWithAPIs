@@ -1,5 +1,9 @@
 # Rick and Morty API Character Analysis
 
+<p align="center">
+<img src="https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg" alt="Rick and Morty" width="400" height="450">
+</p>
+
 ### Introduction
 
 The Rick and Morty API Character Analysis project is designed to fetch character data from the Rick and Morty API, process the data, and store it in a Google BigQuery table for further analysis. 
